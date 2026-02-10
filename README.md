@@ -1,2 +1,1 @@
-# python.imers-o
-imersão em python para análise de dados
+Esse repositório reúne conteúdos e atividades da Imersão em Python realizadas em Google Colab. O objetivo é consolidar meus conhecimentos na linguagem Python por meio de exercícios, projetos e práticas, abordando desde conceitos básicos até aplicações práticas.
